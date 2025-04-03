@@ -95,7 +95,9 @@ ul {
     background-color: #F4F4FD;
 }
 
-.heading-2 {
+.heading_features,
+.heading_team,
+.heading_projects {
     font-weight: bold;
     font-size: 36px;
     letter-spacing: 0.02em;
