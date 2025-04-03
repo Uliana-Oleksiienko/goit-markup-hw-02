@@ -56,7 +56,6 @@ h1 {
     line-height: 1.07;
     text-align: center;
 }
-
 .order-service {
     font-family: "Roboto", sans-serif;
     background-color: #4D5AE5;
@@ -96,7 +95,7 @@ ul {
     background-color: #F4F4FD;
 }
 
-h2 {
+.heading-2 {
     font-weight: bold;
     font-size: 36px;
     letter-spacing: 0.02em;
