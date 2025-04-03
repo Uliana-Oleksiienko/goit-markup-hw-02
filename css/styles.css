@@ -1,0 +1,85 @@
+body {
+    font-family: 'Roboto', 'Raleway' sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1.2;
+    background-color: white;
+    color: #434455;
+}
+
+.logo {
+    text-transform: uppercase;
+    letter-spacing: 1.5;
+}
+
+.logo-color {
+    color: #4D5AE5;
+}
+
+nav:hover,
+nav:active {
+    color: #4D5AE5;
+}
+
+address:hover {
+    color: #404BBF;
+}
+
+.effective-solutions {
+    background-color: #2E2F42;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 1.2;
+    line-height: 60px;
+    text-align: center;
+}
+
+.order-service {
+    background-color: #4D5AE5;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1.4;
+}
+
+.order-service:hover {
+    background-color: #404BBF;
+}
+
+ul {
+    list-style: none;
+}
+
+.features li {
+    border: 1px solid black;
+    box-shadow: -1px 2px 3px #2E2F42;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 1.2;
+    text-align: center;
+    color: #2E2F42;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 1.2;
+    color: #2E2F42;
+}
+
+p {
+    color: #434455;
+}
