@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", "Raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -36,6 +36,7 @@ body {
 
 .address {
     font-style: normal;
+    color: #434455;
 }
 
 .address:hover,
@@ -54,6 +55,7 @@ h1 {
     font-size: 56px;
     letter-spacing: 0.02em;
     line-height: 1.07;
+    text-align: center;
 }
 
 .order-service {
@@ -77,8 +79,6 @@ ul {
 }
 
 .features li {
-    border: 1px solid black;
-    box-shadow: -1px 2px 3px #2E2F42;
 }
 .features-heading {
     font-weight: 500;
@@ -104,8 +104,22 @@ h2 {
     color: #2E2F42;
     line-height: 1.11;
     text-transform: capitalize;
+    text-align: center;
 }
+.projects-list {
+    background-color: #FFFFFF;
 
+}
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.projects-paragraph {
+    font-size: 16px;
+}
 footer {
     background-color: #2E2F42;
     color: white;
